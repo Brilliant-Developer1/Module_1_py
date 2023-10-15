@@ -5,4 +5,5 @@ try:
 except:
     print('An error occurred')
 finally:
-    print('Done')
+    print('Finally Done')
+print('Done')
